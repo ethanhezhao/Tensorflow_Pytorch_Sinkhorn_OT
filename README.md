@@ -1,4 +1,5 @@
-# AutoDiffSinkhorn
+# Tensorflow_Pytorch_Sinkhorn_OT
+
 
 Tensorflow (1.0 or 2.0) and Pytorch implementations of the Sinkhorn algorithm [1] for computing the optimal transport (OT) distance between two discrete distributions.
 
