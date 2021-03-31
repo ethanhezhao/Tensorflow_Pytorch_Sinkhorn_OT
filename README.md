@@ -32,7 +32,7 @@ In the file of ```test.py```, the comparison between the outputs from Cuturi's M
   - [TF-OT-Sinkhorn](https://github.com/MarkMoHR/TF-OT-Sinkhorn)
 - To my knowledge, the above ones may not as general as Cuturi's Matlab implementation. For example,  ```a``` and ```b``` are usually assumed to be uniformly distributed, and ```M``` is assumed to be the Euclidean distance. That's why I wanted to re-implement the Matlab code.
 - The code was originally used in the paper [2]. If you find the code helpful, please consider citing the paper.
-- The code comes with no support.
+- The code comes without support.
 
 [1] Marco Cuturi, Sinkhorn Distances: Lightspeed Computation of Optimal Transport, NIPS 2013
 
