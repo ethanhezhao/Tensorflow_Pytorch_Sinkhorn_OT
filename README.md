@@ -13,7 +13,7 @@ The implementations are the adaptions from the [Matlab implemention](https://mar
 - ```M```: A D_1 by D_2 matrix, the cost function, positive, diagonal shall be zero.
 - ```lambda_sh, numItermax, stopThr```: The parameters of the algorithm, the same as Cuturi's implementation.
 
-```a, b, M``` are tensors of Tensorflow or Pytorch, thus, backpropagation is appliable.
+```a, b, M``` are tensors of Tensorflow or Pytorch, thus, backpropagation is applicable.
 
 ## Output
 
